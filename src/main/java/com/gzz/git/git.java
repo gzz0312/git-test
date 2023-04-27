@@ -10,6 +10,7 @@ public class git {
         System.out.println("git-hot-fix");
         System.out.println("github");
         System.out.println("pull");
+        System.out.println("gitee");
         
     }
 }
